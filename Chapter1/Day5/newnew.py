@@ -6,4 +6,4 @@ for i in range(1, 11):
     print(f'{n} * {i} = {n*i}')
     
     
-    #  to run this is terminal write  python .\newnew.py 5
+    #  to run this is terminal write cd
