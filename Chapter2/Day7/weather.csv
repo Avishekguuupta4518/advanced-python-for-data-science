@@ -1,5 +1,6 @@
-name,main.temp,main.humidity,wind.speed,weather_description
-Janakpur Dham,16.66,53,2.21,clear sky
-Dharān,15.9,66,2.4,clear sky
-Biratnagar,17.55,54,1.92,clear sky
-Kathmandu,11.12,58,1.03,few clouds
+name,main.temp,main.humidity,wind.speed,description
+Kathmandu,292.27,37,1.03,broken clouds
+Kathmandu,292.27,37,1.03,broken clouds
+Dharān,296.71,42,2.74,broken clouds
+Biratnagar,298.46,35,1.39,broken clouds
+Pokhara,294.68,27,3.05,clear sky
